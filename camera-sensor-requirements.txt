@@ -1,0 +1,11 @@
+opencv-python==4.8.1.78
+numpy==1.26.2
+# Use the pre-built GPIO package for ARM
+RPi.GPIO>=0.7.1
+board==1.0
+adafruit-blinka==8.25.0
+# Use the pre-built neopixel package
+adafruit-circuitpython-neopixel>=6.3.9
+paho-mqtt==1.6.1
+boto3==1.33.6
+botocore==1.33.6
